@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.bg{
+background-image:url("https://s1.1zoom.me/b5050/329/The_second_dishes_Meat_products_Vegetables_French_536549_3840x2400.jpg");
+background-size:cover;
+height:100vh;
+width:100%;
+}
+</style>
+</head>
+<body>
+<div class="bg">
+<h1>THE SPICY DELIGHT FOOD RESTAURANT! </h1>
+<p> *TASTY , *YUMMY and *DELICIOUS!<br>
+
+BEST BURGER IN THE TOWN!!!
+</p>
+<a href="loginrestaurant.html">Login</a><br>
+<a href="registrationformrestaurant.html">Register</a><br>
+<a href="menurestaurant.html">Menu</a>
+</div>
+</body>
+</html>
